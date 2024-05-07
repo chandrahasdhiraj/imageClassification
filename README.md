@@ -1,5 +1,5 @@
-### imageClassification
-Parking space counter Project
+# imageClassification
+## Parking space counter Project
 
 #### download data folder - clf-data.zip
 
@@ -7,5 +7,5 @@ Parking space counter Project
 python3 -m venv ic_env </br>
 source ic_env/bin/activate
 
-# run requirement file to install all packages
+#### run requirement file to install all packages
 pip install -r requrement.txt
